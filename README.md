@@ -2,7 +2,7 @@
 From Professor **Yun (Eric) Liang** at Peking University, the course "**Modeling, Analysis, and Optimization for Computing Systems**"
 
 
-# attachment
+# Attachment
 - Algorithm template for graph algorithm
     - `Basic`file
     - `SCC`file
